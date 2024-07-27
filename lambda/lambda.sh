@@ -20,4 +20,3 @@ aws lambda create-function \
     --timeout $TIMEOUT \
     --memory-size $MEMORY_SIZE \
     --zip-file $ZIP_FILE
-
